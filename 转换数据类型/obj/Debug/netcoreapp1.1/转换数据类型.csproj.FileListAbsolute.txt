@@ -1,0 +1,9 @@
+D:\demos\MasteringLINQ\转换数据类型\bin\Debug\netcoreapp1.1\转换数据类型.deps.json
+D:\demos\MasteringLINQ\转换数据类型\bin\Debug\netcoreapp1.1\转换数据类型.runtimeconfig.json
+D:\demos\MasteringLINQ\转换数据类型\bin\Debug\netcoreapp1.1\转换数据类型.runtimeconfig.dev.json
+D:\demos\MasteringLINQ\转换数据类型\bin\Debug\netcoreapp1.1\转换数据类型.dll
+D:\demos\MasteringLINQ\转换数据类型\bin\Debug\netcoreapp1.1\转换数据类型.pdb
+D:\demos\MasteringLINQ\转换数据类型\obj\Debug\netcoreapp1.1\转换数据类型.csprojResolveAssemblyReference.cache
+D:\demos\MasteringLINQ\转换数据类型\obj\Debug\netcoreapp1.1\转换数据类型.AssemblyInfo.cs
+D:\demos\MasteringLINQ\转换数据类型\obj\Debug\netcoreapp1.1\转换数据类型.dll
+D:\demos\MasteringLINQ\转换数据类型\obj\Debug\netcoreapp1.1\转换数据类型.pdb

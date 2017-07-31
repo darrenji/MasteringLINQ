@@ -1,0 +1,8 @@
+D:\demos\MasteringLINQ\排序\bin\Debug\netcoreapp1.1\排序.deps.json
+D:\demos\MasteringLINQ\排序\bin\Debug\netcoreapp1.1\排序.runtimeconfig.json
+D:\demos\MasteringLINQ\排序\bin\Debug\netcoreapp1.1\排序.runtimeconfig.dev.json
+D:\demos\MasteringLINQ\排序\bin\Debug\netcoreapp1.1\排序.dll
+D:\demos\MasteringLINQ\排序\bin\Debug\netcoreapp1.1\排序.pdb
+D:\demos\MasteringLINQ\排序\obj\Debug\netcoreapp1.1\排序.AssemblyInfo.cs
+D:\demos\MasteringLINQ\排序\obj\Debug\netcoreapp1.1\排序.dll
+D:\demos\MasteringLINQ\排序\obj\Debug\netcoreapp1.1\排序.pdb

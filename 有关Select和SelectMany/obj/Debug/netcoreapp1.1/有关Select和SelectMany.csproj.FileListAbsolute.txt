@@ -1,0 +1,8 @@
+D:\demos\MasteringLINQ\有关Select和SelectMany\bin\Debug\netcoreapp1.1\有关Select和SelectMany.deps.json
+D:\demos\MasteringLINQ\有关Select和SelectMany\bin\Debug\netcoreapp1.1\有关Select和SelectMany.runtimeconfig.json
+D:\demos\MasteringLINQ\有关Select和SelectMany\bin\Debug\netcoreapp1.1\有关Select和SelectMany.runtimeconfig.dev.json
+D:\demos\MasteringLINQ\有关Select和SelectMany\bin\Debug\netcoreapp1.1\有关Select和SelectMany.dll
+D:\demos\MasteringLINQ\有关Select和SelectMany\bin\Debug\netcoreapp1.1\有关Select和SelectMany.pdb
+D:\demos\MasteringLINQ\有关Select和SelectMany\obj\Debug\netcoreapp1.1\有关Select和SelectMany.AssemblyInfo.cs
+D:\demos\MasteringLINQ\有关Select和SelectMany\obj\Debug\netcoreapp1.1\有关Select和SelectMany.dll
+D:\demos\MasteringLINQ\有关Select和SelectMany\obj\Debug\netcoreapp1.1\有关Select和SelectMany.pdb
