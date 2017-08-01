@@ -1,0 +1,8 @@
+D:\demos\MasteringLINQ\所有任何包含\bin\Debug\netcoreapp1.1\所有任何包含.deps.json
+D:\demos\MasteringLINQ\所有任何包含\bin\Debug\netcoreapp1.1\所有任何包含.runtimeconfig.json
+D:\demos\MasteringLINQ\所有任何包含\bin\Debug\netcoreapp1.1\所有任何包含.runtimeconfig.dev.json
+D:\demos\MasteringLINQ\所有任何包含\bin\Debug\netcoreapp1.1\所有任何包含.dll
+D:\demos\MasteringLINQ\所有任何包含\bin\Debug\netcoreapp1.1\所有任何包含.pdb
+D:\demos\MasteringLINQ\所有任何包含\obj\Debug\netcoreapp1.1\所有任何包含.AssemblyInfo.cs
+D:\demos\MasteringLINQ\所有任何包含\obj\Debug\netcoreapp1.1\所有任何包含.dll
+D:\demos\MasteringLINQ\所有任何包含\obj\Debug\netcoreapp1.1\所有任何包含.pdb

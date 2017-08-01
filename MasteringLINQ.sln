@@ -5,13 +5,23 @@ VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "实现IEnumerable接口", "实现IEnumerable接口\实现IEnumerable接口.csproj", "{ABE90850-2E3E-49AB-B145-082067D0FF26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "转换数据类型", "转换数据类型\转换数据类型.csproj", "{C26D1CA7-78E4-422B-A29B-E0F99D908ECC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "转换数据类型", "转换数据类型\转换数据类型.csproj", "{C26D1CA7-78E4-422B-A29B-E0F99D908ECC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "有关Select和SelectMany", "有关Select和SelectMany\有关Select和SelectMany.csproj", "{F35919C9-9BDD-433A-8C8E-E5356826D1EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "有关Select和SelectMany", "有关Select和SelectMany\有关Select和SelectMany.csproj", "{F35919C9-9BDD-433A-8C8E-E5356826D1EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "过滤", "过滤\过滤.csproj", "{7B839FB8-3A34-4096-8732-1C0D0C62A129}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "过滤", "过滤\过滤.csproj", "{7B839FB8-3A34-4096-8732-1C0D0C62A129}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "排序", "排序\排序.csproj", "{E9FE8395-312A-4192-841B-A9233C4985BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "排序", "排序\排序.csproj", "{E9FE8395-312A-4192-841B-A9233C4985BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "分组", "分组\分组.csproj", "{E0115364-1779-4ADB-A80E-6D96BA2A4E87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "多个集合", "多个集合\多个集合.csproj", "{95D012A6-B85F-4A60-A3FE-1A29BCF53B0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "所有任何包含", "所有任何包含\所有任何包含.csproj", "{9BD99DF5-1B33-4F5F-9C7D-6AF74548B3B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "分区", "分区\分区.csproj", "{C0CEC64D-7D91-44A4-8FD7-00CE1B34C1AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "有关Join", "有关Join\有关Join.csproj", "{988F863A-3D3C-4DB1-AFDE-94FB461A8A31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +49,26 @@ Global
 		{E9FE8395-312A-4192-841B-A9233C4985BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9FE8395-312A-4192-841B-A9233C4985BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9FE8395-312A-4192-841B-A9233C4985BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0115364-1779-4ADB-A80E-6D96BA2A4E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0115364-1779-4ADB-A80E-6D96BA2A4E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0115364-1779-4ADB-A80E-6D96BA2A4E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0115364-1779-4ADB-A80E-6D96BA2A4E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95D012A6-B85F-4A60-A3FE-1A29BCF53B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D012A6-B85F-4A60-A3FE-1A29BCF53B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D012A6-B85F-4A60-A3FE-1A29BCF53B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D012A6-B85F-4A60-A3FE-1A29BCF53B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD99DF5-1B33-4F5F-9C7D-6AF74548B3B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD99DF5-1B33-4F5F-9C7D-6AF74548B3B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD99DF5-1B33-4F5F-9C7D-6AF74548B3B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD99DF5-1B33-4F5F-9C7D-6AF74548B3B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0CEC64D-7D91-44A4-8FD7-00CE1B34C1AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CEC64D-7D91-44A4-8FD7-00CE1B34C1AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CEC64D-7D91-44A4-8FD7-00CE1B34C1AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CEC64D-7D91-44A4-8FD7-00CE1B34C1AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988F863A-3D3C-4DB1-AFDE-94FB461A8A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988F863A-3D3C-4DB1-AFDE-94FB461A8A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988F863A-3D3C-4DB1-AFDE-94FB461A8A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988F863A-3D3C-4DB1-AFDE-94FB461A8A31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+D:\demos\MasteringLINQ\多个集合\bin\Debug\netcoreapp1.1\多个集合.deps.json
+D:\demos\MasteringLINQ\多个集合\bin\Debug\netcoreapp1.1\多个集合.runtimeconfig.json
+D:\demos\MasteringLINQ\多个集合\bin\Debug\netcoreapp1.1\多个集合.runtimeconfig.dev.json
+D:\demos\MasteringLINQ\多个集合\bin\Debug\netcoreapp1.1\多个集合.dll
+D:\demos\MasteringLINQ\多个集合\bin\Debug\netcoreapp1.1\多个集合.pdb
+D:\demos\MasteringLINQ\多个集合\obj\Debug\netcoreapp1.1\多个集合.AssemblyInfo.cs
+D:\demos\MasteringLINQ\多个集合\obj\Debug\netcoreapp1.1\多个集合.dll
+D:\demos\MasteringLINQ\多个集合\obj\Debug\netcoreapp1.1\多个集合.pdb
